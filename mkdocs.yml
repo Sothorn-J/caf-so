@@ -1,4 +1,4 @@
-site_name: CAF
+site_name: CAF-So
 
 theme:
   name: "material"
@@ -9,3 +9,4 @@ nav:
   - Home: index.md
   - Deposit: deposit.md
   - Withdraw: withdraw.md
+  - Info: info.md
