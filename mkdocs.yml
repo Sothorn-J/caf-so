@@ -10,3 +10,10 @@ nav:
   - Deposit: deposit.md
   - Withdraw: withdraw.md
   - Info: info.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
