@@ -1,11 +1,20 @@
-site_name: CAF
+site_name: CAF-So
 
 theme:
   name: "material"
   palette:
     primary: cyan
+  logo: images/caf-so.jpg
 
 nav:
   - Home: index.md
   - Deposit: deposit.md
   - Withdraw: withdraw.md
+  - Info: info.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
