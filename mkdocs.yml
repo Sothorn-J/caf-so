@@ -4,6 +4,7 @@ theme:
   name: "material"
   palette:
     primary: cyan
+  logo: images/caf-so.jpg
 
 nav:
   - Home: index.md
