@@ -10,6 +10,7 @@ nav:
   - Home: index.md
   - Deposit: deposit.md
   - Withdraw: withdraw.md
+  - Margin: margin.md
   - Info: info.md
 
 markdown_extensions:
