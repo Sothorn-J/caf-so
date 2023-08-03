@@ -23,13 +23,15 @@
 
 ![02](images/withdraw/02.jpg){width="350"}
 
+![03](images/withdraw/03.jpg){width="350"}
+
 #### 3. เลือกเมนู ถอนเงิน
 
-![03](images/withdraw/03.jpg){width="350"}
+![03](images/withdraw/04.jpg){width="350"}
 
 #### 4. กรอกข้อมูล และ กดยืนยัน
 
-![04](images/withdraw/04.jpg){width="350"}
+![04](images/withdraw/05.jpg){width="350"}
 
 #### 5. เมื่อทำรายการเสร็จหน้าเว็บจะขึ้นว่า
 
