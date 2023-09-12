@@ -1,5 +1,5 @@
 # Explanation
-!!! warning "This isn’t official website CAF you can go to official website"
+!!! warning "This is not the official website of CAF. You can go to the official website"
 
 [CAF :material-cursor-default-click:](https://www.caf.co.th/){ .md-button }
 ---
