@@ -5,6 +5,9 @@ theme:
   palette:
     primary: cyan
   logo: images/caf-so.png
+  font:
+    text: Sarabun
+    code: Noto Sans Thai
 
 nav:
   - Home: index.md
